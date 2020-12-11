@@ -1,0 +1,7 @@
+com\ejercicioRecl\usuario\model\Usuario.class
+com\ejercicioRecl\direccion\controller\DireccionController.class
+com\ejercicioRecl\usuario\controller\UsuarioController.class
+com\ejercicioRecl\direccion\model\Conexion.class
+com\ejercicioRecl\direccion\dao\DireccionDAO.class
+com\ejercicioRecl\usuario\dao\UsuarioDAO.class
+com\ejercicioRecl\direccion\model\Direccion.class
